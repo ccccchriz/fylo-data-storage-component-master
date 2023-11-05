@@ -16,5 +16,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor]()
-- Live Site URL: [netlify]()
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-MU-bbT-Ml5)
+- Live Site URL: [netlify](https://preeminent-sfogliatella-6a11c0.netlify.app)
